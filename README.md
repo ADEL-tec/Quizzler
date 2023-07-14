@@ -13,7 +13,7 @@ This is a simple quiz app developed using Flutter. The app allows users to answe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/ADEL-tec/Quizzler.git
     ```
 2. Change to the project directory:
     
@@ -47,9 +47,9 @@ Once the app is installed and running on your mobile device or emulator, follow 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
+<img src="screenshots/1.png" alt="Screenshot 1" height="300">
+<img src="screenshots/2.png" alt="Screenshot 2" height="300">
+<img src="screenshots/3.png" alt="Screenshot 3" height="300">
 
 ## Dependencies
 
