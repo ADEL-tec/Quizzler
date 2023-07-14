@@ -47,9 +47,7 @@ Once the app is installed and running on your mobile device or emulator, follow 
 
 ## Screenshots
 
-<img src="screenshots/1.png" alt="Screenshot 1" height="300">
-<img src="screenshots/2.png" alt="Screenshot 2" height="300">
-<img src="screenshots/3.png" alt="Screenshot 3" height="300">
+<img src="screenshots/1.png" alt="Screenshot 1" height="400"> <img src="screenshots/2.png" alt="Screenshot 2" height="400"> <img src="screenshots/3.png" alt="Screenshot 3" height="400">
 
 ## Dependencies
 
